@@ -1,11 +1,7 @@
 # Attack Vectors Reference — Shared Objects, PTBs & Concurrency (2/4)
 
-> Part 2 of 4 · Vectors 31–60 of 120 total
+> Part 2 of 5 · Vectors 31–60 of 143 total
 > Covers: shared object races, programmable transaction blocks, flash loans, hot potato pattern, MEV, DoS, upgrade security, clock/time
-
-Each vector follows the format:
-- **D:** Description — what makes it exploitable
-- **FP:** False-positive conditions — mitigations that would make it NOT a finding
 
 ---
 

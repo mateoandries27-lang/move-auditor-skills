@@ -1,11 +1,7 @@
 # Attack Vectors Reference — Arithmetic, Tokens & State Management (3/4)
 
-> Part 3 of 4 · Vectors 61–90 of 120 total
+> Part 3 of 5 · Vectors 61–90 of 143 total
 > Covers: integer safety, precision loss, coin/balance operations, vector limits, dynamic fields, state lifecycle, fee logic, dust attacks
-
-Each vector follows the format:
-- **D:** Description — what makes it exploitable
-- **FP:** False-positive conditions — mitigations that would make it NOT a finding
 
 ---
 

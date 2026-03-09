@@ -1,11 +1,7 @@
 # Attack Vectors Reference — Oracle, DeFi Protocol & Platform-Level (4/4)
 
-> Part 4 of 4 · Vectors 91–120 of 120 total
+> Part 4 of 5 · Vectors 91–120 of 143 total
 > Covers: oracle manipulation, DeFi protocol patterns, staking/rewards, liquidation, dependency risks, ZK/TEE, agent security
-
-Each vector follows the format:
-- **D:** Description — what makes it exploitable
-- **FP:** False-positive conditions — mitigations that would make it NOT a finding
 
 ---
 

@@ -1,11 +1,7 @@
 # Attack Vectors Reference — Object Model, Abilities & Access Control (1/4)
 
-> Part 1 of 4 · Vectors 1–30 of 120 total
+> Part 1 of 5 · Vectors 1–30 of 143 total
 > Covers: capability pattern, object abilities (copy/drop/store/key), visibility, access control, object leakage, type safety, transfer policies
-
-Each vector follows the format:
-- **D:** Description — what makes it exploitable
-- **FP:** False-positive conditions — mitigations that would make it NOT a finding
 
 ---
 

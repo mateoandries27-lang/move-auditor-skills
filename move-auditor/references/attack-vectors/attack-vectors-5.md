@@ -2,7 +2,6 @@
 
 > Part 5 of 5 · Vectors 121–143 of 143 total
 > Covers: generic type confusion, entry visibility bypass, event spoofing, flash loan receipt binding, dependency version contagion, denylist epoch gap, constant definition errors, cast truncation, wrapping attacks, stale external mutations
-> Source: [pantheraudits/move-auditor](https://github.com/pantheraudits/move-auditor) — patterns from 1141 real findings across 200+ Move audits
 
 ---
 
